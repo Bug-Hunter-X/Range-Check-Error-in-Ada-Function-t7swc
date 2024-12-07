@@ -1,0 +1,1 @@
+This repository contains an Ada program demonstrating a potential range check error. The `Check_Range` function checks if a number falls within the inclusive range of 10 to 20.  The main program takes user input and uses this function to determine whether the number is within the specified range.  A solution is provided to illustrate improved range checking and error handling.
